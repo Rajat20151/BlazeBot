@@ -1,0 +1,2 @@
+# BlazeBot
+Bot for BlazeCraft
