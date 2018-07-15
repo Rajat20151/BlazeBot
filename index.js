@@ -77,4 +77,4 @@ bot.on('ready', () => {
 
 });
 
-bot.login('NDY3NDk4MjQyODg4ODI2OTA5.DiwUoQ.ba8YTwbIXspcJUed1m5Lr-I9QzI');
+bot.login('process.env.token');
